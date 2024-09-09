@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SmartPed\SmartPed\bin\Release\SmartPed.exe.config
+C:\Users\User\source\repos\SmartPed\SmartPed\bin\Release\SmartPed.exe
+C:\Users\User\source\repos\SmartPed\SmartPed\bin\Release\SmartPed.pdb
+C:\Users\User\source\repos\SmartPed\SmartPed\obj\Release\SmartPed.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SmartPed\SmartPed\obj\Release\SmartPed.FRM_ANB.resources
+C:\Users\User\source\repos\SmartPed\SmartPed\obj\Release\SmartPed.Frm_GAM.resources
+C:\Users\User\source\repos\SmartPed\SmartPed\obj\Release\SmartPed.Frm_Menu.resources
+C:\Users\User\source\repos\SmartPed\SmartPed\obj\Release\SmartPed.Frm_Profarma.resources
+C:\Users\User\source\repos\SmartPed\SmartPed\obj\Release\SmartPed.Properties.Resources.resources
+C:\Users\User\source\repos\SmartPed\SmartPed\obj\Release\SmartPed.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SmartPed\SmartPed\obj\Release\SmartPed.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SmartPed\SmartPed\obj\Release\SmartPed.exe
+C:\Users\User\source\repos\SmartPed\SmartPed\obj\Release\SmartPed.pdb
